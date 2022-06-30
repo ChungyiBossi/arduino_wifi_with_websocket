@@ -7,8 +7,7 @@
   Library:
     ArduinoJson - https://arduinojson.org/?utm_source=meta&utm_medium=library.properties
     
-    
-=====================================================================================================
+<hr/>
     
 # arduino_wifi_with_websocket
 (1.) NodeMCU-ESP8266 is used as a wifi connection board, and after receiving the message, it is sent to the development version of (2)
